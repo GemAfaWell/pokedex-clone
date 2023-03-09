@@ -16,3 +16,4 @@ This is a Pokédex clone made with JavaScript and the [PikaServe API](https://pu
 - [PikaServe API](https://purukitto.github.io/PikaServe/) - API used to get Pokémon data.
 - [FontSpace Pocket Monk Font](https://www.fontspace.com/pocket-monk-font-f23540) - Font used for the Pokédex.
 - [FontSpace Pokémon GB Font](https://www.fontspace.com/pokemon-gb-font-f9621) - Font used for the Pokédex.
+- [David Andrade's DeviantArt - Ash Best Team](https://www.deviantart.com/davidbksandrade/art/Pokemon-Ash-Best-Team-697221487) - Background image used for the Pokédex.
