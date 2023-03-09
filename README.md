@@ -2,6 +2,10 @@
 
 This is a Pokédex clone made with JavaScript and the [PikaServe API](https://purukitto.github.io/PikaServe/).
 
+## Demo
+[Click here](https://gemafawell-pokedex-clone.netlify.app/) to see the demo.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/609886d4-da75-48c5-9266-c553534a3866/deploy-status)](https://app.netlify.com/sites/gemafawell-pokedex-clone/deploys)
+
 ## How to use
 1. Play the music by pressing the play button on the SoundCloud player.
 2. Click on the 'Generate' button to start the Pokédex.
