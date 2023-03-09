@@ -31,7 +31,7 @@ function getPokemon() {
   getPokemonData(url);
   function displayPokemon(data) {
     // toggle the hidden class to show the Pokemon data
-    container.classList.toggle('poke-container');
+    container.classList.add('poke-container');
     // display the Pokemon name
     pokemonName.innerHTML = `It's ${data.name.english}!`;
     // display the Pokemon ID
